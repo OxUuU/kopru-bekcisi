@@ -1,16 +1,3 @@
-<!--
-========================================================================
-KÖPRÜ BEKÇİSİ — README ŞABLONU
-========================================================================
-Bu README'yi Köprü Bekçisi Unity projenin GitHub repo'sunun köküne
-"README.md" olarak koy.
-
-[KÖŞELİ_PARANTEZ] kısımlarını doldur. <!-- yorum --> satırlarını sil.
-
-Kritik: Demo bölümünde EN AZ 1 GIF veya screenshot olmalı. Yoksa README
-boş gibi görünür ve repo "okumaya değmez" izlenimi verir.
-========================================================================
--->
 
 <div align="center">
 
